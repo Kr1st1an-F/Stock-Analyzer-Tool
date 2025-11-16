@@ -10,7 +10,7 @@
 ## Features
 
 - **No API keys needed** – uses `yfinance` (free Yahoo Finance data)
-- **1-Year EPS-based price target** using analyst forward estimates
+- **1-3-5-Year EPS-based price target** using analyst forward estimates
 - **Technical indicators**: RSI(14), SMA-50, MACD
 - **Rule-based rating** (40% Projections, 40% Technicals, 20% Valuation)
 - **Interactive price + RSI chart** (Matplotlib)
